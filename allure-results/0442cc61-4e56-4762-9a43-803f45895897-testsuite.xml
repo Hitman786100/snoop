@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1583299843780' stop='1583299870222'>
+    <name>Suite</name>
+    <title>Suite</title>
+    <test-cases>
+        <test-case start='1583299843781' status='passed' stop='1583299870221'>
+            <name>JetBlue All Destinations</name>
+            <title>JetBlue All Destinations</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

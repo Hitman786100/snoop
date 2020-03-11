@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1579848801088' stop='1579848818324'>
+    <name>SPRINT 1 TEST CASES</name>
+    <title>SPRINT 1 TEST CASES</title>
+    <test-cases>
+        <test-case start='1579848801088' status='passed' stop='1579848818322'>
+            <name>TC_LOGIN_001</name>
+            <title>TC_LOGIN_001</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

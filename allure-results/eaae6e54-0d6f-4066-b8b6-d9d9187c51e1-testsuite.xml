@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1582104943334' stop='1582104966387'>
+    <name>Functional TCs</name>
+    <title>Functional TCs</title>
+    <test-cases>
+        <test-case start='1582104943336' status='passed' stop='1582104966385'>
+            <name>TC_LOGIN_001</name>
+            <title>TC_LOGIN_001</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
